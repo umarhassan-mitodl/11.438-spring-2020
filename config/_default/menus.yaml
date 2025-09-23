@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 98e65dc2-e548-6014-63aa-bba7448297ca
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4e71f735-a839-e6d0-066d-59db4100d1f1
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 93d560f8-b8bf-712c-5b1e-4578b3537871
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: b7696dbd-c6ba-a21b-9e96-77ca8c4ae6c8
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 49e26fc5-67a8-ed5d-942c-2d5a7ff1d3d2
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 50
+- identifier: 01f341e5-4e51-1d5a-c809-262e549d5611
+  name: Professional Memo Assignments
+  pageRef: /pages/memoassignments
+  weight: 60
