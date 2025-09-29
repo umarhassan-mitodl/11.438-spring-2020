@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-438-economic-development-planning-spring-2020/d99fefdfc438d688117da1a2db9d9bcb_MIT11_438s20_memo2_anon.pdf
 file_size: 79875
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

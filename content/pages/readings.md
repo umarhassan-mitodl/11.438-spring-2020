@@ -3,6 +3,8 @@ content_type: page
 description: This page contains bibliographic information on the course readings for
   11.438.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -24,55 +26,55 @@ Dates of reading assignments can be found on the {{% resource_link "4e71f735-a83
 
 ##  Fiscal Impact Studies:
 
-- {{% resource_link "fc95cc2b-300f-468b-b243-b6a856ca2b50" "Avondale Estates (PDF)" %}} (2018)
-- {{% resource_link "4c6f3f7e-fefb-4a4e-b173-fe25feff2663" "Bohannon Menlo Park (PDF)" %}} (2010)
-- {{% resource_link "f3100c46-6ce6-426a-b80f-2e0efe8bf8fa" "Chocolate Factory Mansfield (PDF)" %}} (2014)
-- {{% resource_link "bdacb4f6-7332-4292-89e5-e258f8d11c0e" "Dascomb Road Andover (PDF)" %}} (2018)
-- {{% resource_link "3466002f-e84d-47d1-867b-29b396c8d47b" "Dascomb Road Peer Review (PDF - 1.35 MB)" %}} (2018)
-- {{% resource_link "f2210084-332e-45e5-80a1-6741182de96d" "Montpelier (VT) Fiscal Impacts of Growth (PDF)" %}} (2005)
-- {{% resource_link "a9307ef4-1dd0-43f1-aa3f-538f9bf5530f" "Northland Newton (PDF)" %}} (2018)
-- {{% resource_link "8fc811a5-5e41-439e-8bce-53fbba3243e2" "Northland Newton Peer Review (PDF - 1.62 MB)" %}} (2018)
-- {{% resource_link "937549b3-2edd-466f-beae-f45e03301857" "Thompsonville (CT) Transit Fiscal Impact Study (PDF - 1.23 MB)" %}} (2005)
-- {{% resource_link "96f42350-bf49-4bbf-86b8-a57644356e81" "Waterfront West (PDF)" %}} (2017)
+- [Avondale Estates (PDF)](https://www.avondaleestates.org/DocumentCenter/View/2409/Fiscal-Impact-Report) (2018)
+- [Bohannon Menlo Park (PDF)](https://www.menlopark.org/DocumentCenter/View/3034/Final-Fiscal-Impact-Analysis?bidId=) (2010)
+- [Chocolate Factory Mansfield (PDF)](https://www.mansfieldma.com/DocumentCenter/View/607/Fiscal-Impact-PDF) (2014)
+- [Dascomb Road Andover (PDF)](https://andoverma.gov/DocumentCenter/View/5380/20180601-Dascomb-Road-Project-Fiscal-Impact-Analysis-All-Commercial-Plan) (2018)
+- [Dascomb Road Peer Review (PDF - 1.35 MB)](https://andoverma.gov/DocumentCenter/View/5417/20181204-RKG-Associates-Inc-Fiscal-Impact-Analysis-Peer-Review-No-1) (2018)
+- [Montpelier (VT) Fiscal Impacts of Growth (PDF)](https://www.montpelier-vt.org/DocumentCenter/View/1424/A-Study-and-Analysis-of-the-Fiscal-Impacts-of-Growth-in-the-City-of-Montpelier-PDF?bidId=) (2005)
+- [Northland Newton (PDF)](https://www.newtonma.gov/home/showpublisheddocument?id=49313) (2018)
+- [Northland Newton Peer Review (PDF - 1.62 MB)](https://www.newtonma.gov/home/showpublisheddocument/49329/637429359517930000) (2018)
+- [Thompsonville (CT) Transit Fiscal Impact Study (PDF - 1.23 MB)](https://www.enfield-ct.gov/DocumentCenter/View/6537/Thompsonville-Transit-Center---Economic-and-Fiscal-Impact-Study) (2005)
+- [Waterfront West (PDF)](https://www.cityofnewburyport.com/sites/g/files/vyhlif12211/f/uploads/6_-_fiscal_impact_analysis_-_waterfront_west.pdf) (2017)
 
 ## Other Readings:
 
-- {{% resource_link "621cd4ca-1c50-4842-8718-46a6b98a9637" "Assembly Square Mixed Use District Zoning" %}}
-- {{% resource_link "3b2b3eca-6e7f-4ca1-97be-1a5331293514" "Assembly Square Planning Study (PDF - 4.4 MB)" %}} (2000)
-- {{% resource_link "e78f780c-474a-4b9c-853f-7b6aafb3c823" "Assembly Square Rendered Site Plans (PDF - 15.01 MB)" %}} and {{% resource_link "047f9655-94b6-48bf-8f93-c091e691023e" "Design Guidelines (PDF - 25.24 MB)" %}} (2014)
-- {{% resource_link "2ef703c1-2983-4b85-a0cd-399b85b0aaa0" "Assembly Square Revitalization Plan (PDF - 8.76 MB)" %}} (2002) 
-- Axelrod, Susan. {{% resource_link "02cb16af-80b9-4b68-8b6b-7f4c520881af" "“Thompson's Point Turns the Corner.”" %}} *Maine* Magazine, May 2019.
-- Busby, Chris. {{% resource_link "c919a1c6-de6b-44b3-b41c-275fa5451e66" "“That’s Our Dump! \[2\]”" %}} *The Bollard*, Nov. 1, 2016.
-- {{% resource_link "ee716f43-7fbe-4ef6-8f30-5c315c9e2edc" "Cambridge Incentive Zoning Nexus and Jobs Linkage Study (PDF - 1.43 MB)" %}} (2019) 
-- {{% resource_link "98a1b7df-0bf8-4be1-bd83-6d3c02004905" "Citizens Advocating Responsible Environmental Solutions, Inc., v. City of Marco Island, 959 So.2d 203" %}} (2007)
-- {{% resource_link "8dd82b0a-3e41-4ffc-b9d3-e1f6b6bc0349" "City of Boca Raton v. State, 595 So.2d 25" %}} (1992)
-- {{% resource_link "cf032e17-93c8-4852-ad02-86d9995e016f" "City of Pittsburgh v. Alco Parking Corporation, 417 U.S. 369" %}} (1974)
-- {{% resource_link "82505b76-e577-4d08-9ab2-5daab92401b4" "City of Portland \[ME\] Transportation Hub Link Feasibility Study (PDF)" %}} (2015)
-- {{% resource_link "75b724b0-b8e8-4716-8ed9-7f9b1a6de58d" "Dolan v. City of Tigard, 512 U.S. 374" %}} (1994)
+- [Assembly Square Mixed Use District Zoning](https://library.municode.com/ma/somerville/codes/zoning_ordinances?nodeId=Chapter%207%20-%20Special%20Districts)
+- [Assembly Square Planning Study (PDF - 4.4 MB)](http://archive.somervillema.gov/sites/default/files/documents/asps2.pdf) (2000)
+- [Assembly Square Rendered Site Plans (PDF - 15.01 MB)](http://archive.somervillema.gov/sites/default/files/documents/RenderedSitePlans.pdf) and [Design Guidelines (PDF - 25.24 MB)](http://archive.somervillema.gov/sites/default/files/documents/DesignGuidelines.pdf) (2014)
+- [Assembly Square Revitalization Plan (PDF - 8.76 MB)](http://archive.somervillema.gov/sites/default/files/documents/Assembly%20Square%20Revit%20Plan.pdf) (2002) 
+- Axelrod, Susan. [“Thompson's Point Turns the Corner.”](https://www.themainemag.com/features/thompsons-point-turns-the-corner/) *Maine* Magazine, May 2019.
+- Busby, Chris. [“That’s Our Dump! \[2\]”](https://thebollard.com/2016/11/01/thats-our-dump-2/) *The Bollard*, Nov. 1, 2016.
+- [Cambridge Incentive Zoning Nexus and Jobs Linkage Study (PDF - 1.43 MB)](https://www.cambridgema.gov/news/~/media/69F3CEE26609432EA86CCC6C72E73C59.ashx) (2019) 
+- [Citizens Advocating Responsible Environmental Solutions, Inc., v. City of Marco Island, 959 So.2d 203](https://scholar.google.com/scholar_case?case=7996334369085967084&q=Citizens+Advocating+Responsible+Environmental+Solutions,+Inc.,+v.+Cit%E2%80%A6) (2007)
+- [City of Boca Raton v. State, 595 So.2d 25](https://scholar.google.com/scholar_case?case=3756918873607349095&q=City+of+Boca+Raton+v.+State,+595+So.2d+25+) (1992)
+- [City of Pittsburgh v. Alco Parking Corporation, 417 U.S. 369](https://scholar.google.com/scholar_case?case=4634847201439227307&q=City+of+Pittsburgh+v.+Alco+Parking+Corporation,+417+U.S.+369+) (1974)
+- [City of Portland \[ME\] Transportation Hub Link Feasibility Study (PDF)](https://www.gpcog.org/DocumentCenter/View/352/2015-Portland-Hub-Link-Focus-Group-Presentation-PDF) (2015)
+- [Dolan v. City of Tigard, 512 U.S. 374](https://scholar.google.com/scholar_case?case=8551511773686011796&q=Dolan+v.+City+of+Tigard,+512+U.S.+374+) (1994)
 - Edwards, Mary. “State and Local Revenues Beyond the Property Tax (PDF).” Lincoln Institute of Land Policy, 2006.
-- {{% resource_link "de249400-8c99-43dc-a40d-4e908ca02eb2" "Ehrlich v. City of Culver City, 911 P.2d 429" %}} (1996)
-- Elmer, Vicki. {{% resource_link "1877b817-fb55-4838-83e2-69c6e4ec7b7e" "“Bonds and Borrowing (PDF).”" %}} Lincoln Institute of Land Policy (undated).
-- Evans-Cowley, Jennifer. {{% resource_link "c8b0254d-175f-492c-aba9-af2a691516dc" "“Development Exactions: Process and Planning Issues (PDF).”" %}} Lincoln Institute of Land Policy, 2006.
-- Gates, Moses. {{% resource_link "7c00fa5a-417a-4457-859a-58a9242c23d7" "“Residential Property Taxation in New York City (PDF).”" %}} Lincoln Institute of Land Policy, 2019. 
-- Germán, Lourdes, and Allison Ehrich Bernstein. {{% resource_link "16872e23-28b8-458d-9d54-6888f3fd85a2" "“Land Value Capture: Tools to Finance Our Urban Future.”" %}} Lincoln Institute of Land Policy, 2018. 
-- Hanson, Andrew. {{% resource_link "2699ae2c-638a-4f4a-8f14-2a79ad61ad2f" "“Taxes and Economic Development: An Update on the State of the Economics Literature (PDF).”" %}} Lincoln Institute of Land Policy, 2019. 
-- Jacobus, Rick. {{% resource_link "0a79b87c-0ae4-44f2-a6b1-047449a7f257" "“Inclusionary Housing: Creating and Maintaining Equitable Communities (PDF - 5.71 MB).”" %}} Lincoln Institute of Land Policy, 2015. 
-- Kotval, Zenia, and John Mullin. {{% resource_link "d8ef42ca-0fcd-49f3-8564-0f47d7856ee4" "“Fiscal Impact Analysis: Methods, Cases, and Intellectual Debate (PDF).”" %}} Lincoln Institute of Land Policy, 2006. 
-- LaVecchia, Olivia, and Stacy Mitchell. {{% resource_link "7de98bd7-2406-4ebd-a1e9-41d524fe9cd3" "“Amazon’s Next Frontier: Your City’s Purchasing (PDF).”" %}} Institute for Local Self-Reliance, 2018.
+- [Ehrlich v. City of Culver City, 911 P.2d 429](https://scholar.google.com/scholar_case?case=15419432935028874278&q=Ehrlich+v.+City+of+Culver+City,+911+P.2d+429+) (1996)
+- Elmer, Vicki. [“Bonds and Borrowing (PDF).”](https://www.cdfa.net/cdfa/cdfaweb.nsf/ord/201410_BondsAndBorrowing2006.html/$file/elmer-bonds.pdf) Lincoln Institute of Land Policy (undated).
+- Evans-Cowley, Jennifer. [“Development Exactions: Process and Planning Issues (PDF).”](http://www.impactfees.com/publications%20pdf/evans-cowley-planning.pdf) Lincoln Institute of Land Policy, 2006.
+- Gates, Moses. [“Residential Property Taxation in New York City (PDF).”](https://www.lincolninst.edu/sites/default/files/pubfiles/gates_wp19mg1.pdf) Lincoln Institute of Land Policy, 2019. 
+- Germán, Lourdes, and Allison Ehrich Bernstein. [“Land Value Capture: Tools to Finance Our Urban Future.”](https://www.lincolninst.edu/publications/policy-briefs/land-value-return) Lincoln Institute of Land Policy, 2018. 
+- Hanson, Andrew. [“Taxes and Economic Development: An Update on the State of the Economics Literature (PDF).”](https://www.lincolninst.edu/sites/default/files/pubfiles/hanson_wp19ah2.pdf) Lincoln Institute of Land Policy, 2019. 
+- Jacobus, Rick. [“Inclusionary Housing: Creating and Maintaining Equitable Communities (PDF - 5.71 MB).”](https://www.lincolninst.edu/sites/default/files/pubfiles/inclusionary-housing-full_0.pdf) Lincoln Institute of Land Policy, 2015. 
+- Kotval, Zenia, and John Mullin. [“Fiscal Impact Analysis: Methods, Cases, and Intellectual Debate (PDF).”](https://www.lincolninst.edu/sites/default/files/pubfiles/kotval-wp06zk2.pdf) Lincoln Institute of Land Policy, 2006. 
+- LaVecchia, Olivia, and Stacy Mitchell. [“Amazon’s Next Frontier: Your City’s Purchasing (PDF).”](https://ilsr.org/wp-content/uploads/2018/07/ILSR_AmazonsNextFrontier_Final.pdf) Institute for Local Self-Reliance, 2018.
 -  Leigh, Nancey Green, and Edward J. Blakeley. *Planning Local Economic Development*, sixth edition. Sage Publishing, 2016. ISBN: 9781506363998.
-- Merriman, David. {{% resource_link "18828d6e-dccc-40d5-9c22-d5324d101529" "“Improving Tax Increment Financing (TIF) for Economic Development.”" %}} Lincoln Institute of Land Policy, 2018. 
-- Mitchell, Stacy. {{% resource_link "9215feb3-860c-4b91-9d0d-7312155bc28a" "“Monopoly Power and the Decline of Small Businesses: The Case for Restoring America’s Once Robust Antitrust Policies (PDF - 4.02 MB).”" %}} Institute for Local Self-Reliance, 2016.
-- {{% resource_link "e826dd72-ad90-435d-a600-38516311aae8" "Narrative History of the CDBG Program in Portland (PDF)" %}}
-- Nielsen, Anders. {{% resource_link "ce29aa3a-caab-4546-9828-0a168e03a1ce" "“That’s Our Dump! \[1\]”" %}} *The Bollard,* Aug. 9, 2011.
-- {{% resource_link "cdf8164d-0a43-41f8-b9cf-f1a229106197" "Nollan v. California Coastal Commission, 483 U.S. 825" %}} (1987)
-- {{% resource_link "49b35f5e-1554-4cad-87d8-5ea94d0363ec" "Nordlinger v. Hahn, 505 U.S. 1" %}} (1992)
-- Overton, Michael, and Robert Bland. {{% resource_link "0dacf0d1-95e4-45b7-8513-0b6e72817895" "“Exploring the Linkage between Economic Base, Revenue Growth, and Revenue Stability in Large Municipal Governments (PDF).”" %}} Lincoln Institute of Land Policy, 2017.
-- {{% resource_link "f3f671d2-6487-49fa-b08e-b0a068197942" "Ragsdale v. City of Memphis, 70 S.W.3d 56" %}} (2001)
+- Merriman, David. [“Improving Tax Increment Financing (TIF) for Economic Development.”](https://www.lincolninst.edu/publications/policy-focus-reports/improving-tax-increment-financing-tif-economic-development) Lincoln Institute of Land Policy, 2018. 
+- Mitchell, Stacy. [“Monopoly Power and the Decline of Small Businesses: The Case for Restoring America’s Once Robust Antitrust Policies (PDF - 4.02 MB).”](https://ilsr.org/wp-content/uploads/2018/03/MonopolyPower-SmallBusiness.pdf) Institute for Local Self-Reliance, 2016.
+- [Narrative History of the CDBG Program in Portland (PDF)](https://content.civicplus.com/api/assets/05457e1c-c5db-4e53-8621-e866e8247f3c?cache=1800)
+- Nielsen, Anders. [“That’s Our Dump! \[1\]”](https://thebollard.com/2011/08/09/thats-our-dump/) *The Bollard,* Aug. 9, 2011.
+- [Nollan v. California Coastal Commission, 483 U.S. 825](https://scholar.google.com/scholar_case?case=10841693014473793601&q=+Nollan+v.+California+Coastal+Commission,+483+U.S.+825+) (1987)
+- [Nordlinger v. Hahn, 505 U.S. 1](https://supreme.justia.com/cases/federal/us/505/1/) (1992)
+- Overton, Michael, and Robert Bland. [“Exploring the Linkage between Economic Base, Revenue Growth, and Revenue Stability in Large Municipal Governments (PDF).”](https://www.lincolninst.edu/sites/default/files/pubfiles/overton_wp17mo1.pdf) Lincoln Institute of Land Policy, 2017.
+- [Ragsdale v. City of Memphis, 70 S.W.3d 56](https://scholar.google.com/scholar_case?case=2199090349180422202&q=Ragsdale+v.+City+of+Memphis,+70+S.W.3d+56+) (2001)
 - Seidman, Karl F. *Economic Development Finance*. Sage Publishing, 2005. ISBN: 9780761927099.
-- {{% resource_link "6d6f9cdd-75f6-4f4c-a52c-e4810454461d" "State of Maine Economic Development Strategy (PDF - 5.02 MB)" %}} (2019)
-- Theodos, Brett, and Brady Meixell, {{% resource_link "c822b671-7abc-4e36-9451-9a7b55df8a8d" "“How Chicago and Cook County Can Leverage Opportunity Zones for Community Benefit (PDF).”" %}} Urban Institute, 2019. 
-- {{% resource_link "05831da3-37b9-4d76-bbb4-b7234063449a" "Thompson's Point website" %}}
-- {{% resource_link "bf94330e-eb92-426e-b327-517fe62fe753" "Town of Brookline \[MA\] Capital Improvements Program 2019-2024 (PDF)" %}}
-- {{% resource_link "333a3c47-96c4-40cd-853e-4cc44d066a51" "Town of Brookline \[MA\] FY2020 Budget (PDF - 1.40 MB)" %}}
-- {{% resource_link "cb179939-a1eb-4504-9c7c-0358e53d3ec2" "Village of Euclid, Ohio v. Ambler Realty Co., 272 U.S. 365" %}} (1926)
-- Willams, Stockton, et al. {{% resource_link "ebc66a44-6efe-45f0-8b2c-b18ea8212121" "“The Economics of Inclusionary Development (PDF - 6.58 MB).”" %}} Urban Land Institute, 2016.
+- [State of Maine Economic Development Strategy (PDF - 5.02 MB)](https://www.maine.gov/decd/sites/maine.gov.decd/files/inline-files/DECD_120919_sm.pdf) (2019)
+- Theodos, Brett, and Brady Meixell, [“How Chicago and Cook County Can Leverage Opportunity Zones for Community Benefit (PDF).”](https://www.urban.org/sites/default/files/publication/99586/how_chicago_and_cook_county_can_leverage_opportunity_zones_for_community_benefit_1.pdf) Urban Institute, 2019. 
+- [Thompson's Point website](https://www.thompsonspoint.com/)
+- [Town of Brookline \[MA\] Capital Improvements Program 2019-2024 (PDF)](https://www.brooklinema.gov/DocumentCenter/View/13397/FY2019_2024-Preliminary-Capital-Improvement-Program-CIP-Project-Descriptions-PDF)
+- [Town of Brookline \[MA\] FY2020 Budget (PDF - 1.40 MB)](https://www.brooklinema.gov/DocumentCenter/View/18640/FY2020-Budget---Powerpoint-Presentation-to-the-Select-Board-PDF)
+- [Village of Euclid, Ohio v. Ambler Realty Co., 272 U.S. 365](https://scholar.google.com/scholar_case?case=8376015914752485063&q=Village+of+Euclid,+Ohio+v.+Ambler+Realty+Co.,+272+U.S.+365+) (1926)
+- Willams, Stockton, et al. [“The Economics of Inclusionary Development (PDF - 6.58 MB).”](https://uli.org/wp-content/uploads/ULI-Documents/Economics-of-Inclusionary-Zoning.pdf) Urban Land Institute, 2016.
